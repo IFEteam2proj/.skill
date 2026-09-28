@@ -6,7 +6,7 @@ description: 견해 모듈 결과(bl_input/ 의 assets·P·Q·Omega.csv)를 fram
 # 견해 모듈 결과 → framework-main CSV 변환
 
 ## 언제 쓰나
-`BL_Platform/Module_Based_ML/<모듈>/.../bl_input/` 형식(상준·근석 공통)의 결과를
+`BL_Platform/Module_Based_ML/<모듈>/.../bl_input/` 형식의 결과를
 `framework-main` Streamlit 앱에 업로드할 4개 CSV로 바꿀 때.
 
 ## 실행
